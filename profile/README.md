@@ -8,7 +8,7 @@ This repository is used for demonstrating how to release a machine learning appl
 
 ### Start Guide
 
-Please install all the repositories and follow the Operations repository in order to start all the files.
+Please install all the repositories and follow the **_operations_** repository in order to start all the files.
 
 ### Contribution
 
